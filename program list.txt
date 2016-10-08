@@ -1,0 +1,11 @@
+1.  In a company if employees's basic salary is less than or equa; to 10000. Then his DA is 31% of basic salary, HRA is 12% of basic, MA is rs 250. if his salary is greater than 10000 then DA is 35% of basic, Hra is 15% of basic and Ma is 350. calculate his gross salary.
+
+2.  Write a program that reads a year and determine whether it is leap year or not(Nested if else). year is leap if it  is evenly divisible by 4 or 400. If it is century year, it must be divisible y 100 and 4 otherwie it si divisible by 4. 
+
+3.  Write a program to accept monthly salary from the user, find and display income tax with the help of the following rule:
+	Montlhy salary 			Income Tax
+	10000 or more			40% of monthly salary
+	7500 to 9999			30% of monthly salary
+	7499 or less			20% of monthly slary
+
+4.  Write a program to calculate percentage of marks of student is five different subjects. If his percentage is greater than equal to 60 he got first division, if greater than equal to 50 second division, if greather than equal to 40 third division, otherwise fail.
